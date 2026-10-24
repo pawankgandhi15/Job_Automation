@@ -1,0 +1,4 @@
+.sites/
+node_modules/
+*.tar.gz
+*.tgz

@@ -1,0 +1,63 @@
+{
+  "version": "profile-template",
+  "name": "Your Name",
+  "location": "City, Region, Country",
+  "email": "you@example.com",
+  "phone": "",
+  "linkedin": "",
+  "github": "",
+  "project_url": "",
+  "internship_availability": "Add confirmed availability here.",
+  "full_time_availability": "Add confirmed availability here.",
+  "reconfirm_after": "YYYY-MM-DD",
+  "work_authorization": {
+    "country": "Country",
+    "eligible": false,
+    "requires_sponsorship_now_or_future": true,
+    "provenance": "Replace with the candidate's own confirmed information."
+  },
+  "education": [
+    {
+      "degree": "M.Tech",
+      "branch": "Information Technology",
+      "institution": "Institution Name",
+      "start_year": 2020,
+      "end_year": 2024,
+      "cgpa": null,
+      "scale": null,
+      "status": "Completed"
+    }
+  ],
+  "skill_evidence": {},
+  "experience": [],
+  "projects": [],
+  "credentials": [],
+  "achievements": [],
+  "internship_hours_per_day": 6,
+  "internship_days_per_week": null,
+  "internship_duration_months": null,
+  "expected_graduation_month": null,
+  "internship_preferred_cohort": null,
+  "availability": {
+    "internship": {
+      "earliest_start_month": null,
+      "earliest_start_date": null,
+      "hours_per_day": null,
+      "days_per_week": null,
+      "duration_months": null,
+      "location_mode": "unknown",
+      "source": "Candidate must supply confirmed details.",
+      "confirmed_at": null
+    },
+    "full_time": {
+      "earliest_start_month": null,
+      "earliest_start_date": null,
+      "hours_per_day": null,
+      "days_per_week": null,
+      "duration_months": null,
+      "location_mode": "unknown",
+      "source": "Candidate must supply confirmed details.",
+      "confirmed_at": null
+    }
+  }
+}

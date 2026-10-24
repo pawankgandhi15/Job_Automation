@@ -1,0 +1,38 @@
+name: Job agent checks
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  checks:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [windows-latest, ubuntu-latest]
+        python-version: ["3.11", "3.12", "3.13"]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: pip
+      - name: Install package and development tools
+        run: python -m pip install -e ".[dev]"
+      - name: Lint and format
+        run: |
+          python -m ruff check job_agent tests
+          python -m ruff format --check job_agent tests
+      - name: Strict type checks
+        run: python -m mypy job_agent
+      - name: Offline tests and coverage
+        run: python -m pytest --cov=job_agent --cov-report=term-missing --cov-fail-under=85
+      - name: Build installable package
+        run: python -m build --no-isolation

@@ -1,0 +1,57 @@
+{
+  "sample": true,
+  "description": "SYNTHETIC TEST DATA ONLY. These are not real vacancies. The import command rejects this sample; use demo to create an isolated ledger. For a real import, replace every employer/job/source/eligibility field with actual reviewed evidence and remove sample=true.",
+  "opportunities": [
+    {
+      "company": "Synthetic Demo Employer",
+      "official_website": "https://example.com",
+      "tier": "GOOD",
+      "role": "Python Backend Intern (SYNTHETIC)",
+      "job_id": "SYNTHETIC-001",
+      "canonical_url": "https://example.com/careers/synthetic-001",
+      "application_url": "https://example.com/careers/synthetic-001/apply",
+      "location": "India — synthetic location",
+      "employment_type": "internship",
+      "posting_date": null,
+      "deadline": null,
+      "last_verified_at": "2026-10-21T09:00:00+05:30",
+      "description": "Synthetic backend internship fixture requiring Python and Django; Docker preferred. This is not a vacancy.",
+      "primary_source_urls": ["https://example.com/careers/synthetic-001"],
+      "business_description": "Synthetic software business for demonstrating report formatting; not a real researched employer.",
+      "business_source": "https://example.com",
+      "engineering_context": "Synthetic backend service and API engineering team.",
+      "engineering_source": "https://example.com/careers/synthetic-001",
+      "responsibility_alignment": 2,
+      "responsibility_source": "https://example.com/careers/synthetic-001",
+      "level_fit": 2,
+      "level_source": "https://example.com/careers/synthetic-001",
+      "technical_groups": [
+        {"group": "Python", "priority": "required", "mandatory": true, "source": "https://example.com/careers/synthetic-001"},
+        {"group": "Django", "priority": "required", "mandatory": true, "source": "https://example.com/careers/synthetic-001"},
+        {"group": "Docker", "priority": "preferred", "mandatory": false, "source": "https://example.com/careers/synthetic-001"}
+      ],
+      "compensation": null,
+      "constraints": {},
+      "required_questions": [],
+      "required_consents": [],
+      "eligibility_gates": {
+        "employer_identity": {"status": "PASS", "reason": "SYNTHETIC gate; not real employer verification.", "source": "https://example.com/careers/synthetic-001"},
+        "live_vacancy": {"status": "PASS", "reason": "SYNTHETIC gate; not a real live vacancy.", "source": "https://example.com/careers/synthetic-001"},
+        "application_route": {"status": "PASS", "reason": "SYNTHETIC gate; no actual submission route.", "source": "https://example.com/careers/synthetic-001"},
+        "location": {"status": "PASS", "reason": "SYNTHETIC test evidence for India eligibility.", "source": "https://example.com/careers/synthetic-001"},
+        "work_authorization": {"status": "PASS", "reason": "SYNTHETIC test gate only; candidate work authorization remains unconfirmed in the live profile.", "source": "https://example.com/careers/synthetic-001"},
+        "employment_type": {"status": "PASS", "reason": "SYNTHETIC internship.", "source": "https://example.com/careers/synthetic-001"},
+        "degree_level": {"status": "PASS", "reason": "SYNTHETIC test evidence accepting ongoing M.Tech IT.", "source": "https://example.com/careers/synthetic-001"},
+        "undergraduate_branch": {"status": "PASS", "reason": "SYNTHETIC test evidence allowing Mechanical Engineering undergraduate branch.", "source": "https://example.com/careers/synthetic-001"},
+        "grades": {"status": "PASS", "reason": "SYNTHETIC test evidence with no minimum grade criterion.", "source": "https://example.com/careers/synthetic-001"},
+        "experience": {"status": "PASS", "reason": "SYNTHETIC test evidence accepting internships; no required professional years.", "source": "https://example.com/careers/synthetic-001"},
+        "graduation_batch": {"status": "PASS", "reason": "SYNTHETIC test evidence accepting the 2027 M.Tech cohort.", "source": "https://example.com/careers/synthetic-001"},
+        "student_status": {"status": "PASS", "reason": "SYNTHETIC test evidence accepting current students.", "source": "https://example.com/careers/synthetic-001"},
+        "start_date": {"status": "PASS", "reason": "SYNTHETIC test evidence with compatible internship start.", "source": "https://example.com/careers/synthetic-001"},
+        "academic_schedule": {"status": "PASS", "reason": "SYNTHETIC test evidence of confirmed compatible academic hours; not a real candidate confirmation.", "source": "https://example.com/careers/synthetic-001"},
+        "duration": {"status": "PASS", "reason": "SYNTHETIC test evidence of compatible duration.", "source": "https://example.com/careers/synthetic-001"},
+        "essential_skills": {"status": "PASS", "reason": "SYNTHETIC test requirements match supplied Python/Django evidence.", "source": "https://example.com/careers/synthetic-001"}
+      }
+    }
+  ]
+}

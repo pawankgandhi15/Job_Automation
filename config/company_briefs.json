@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "companies": {
+    "sarvam.ai": {
+      "name": "Sarvam AI",
+      "sector": "AI models & Indian-language technology",
+      "about": "Builds AI models, speech APIs and applications for India. Founded by Vivek Raghavan and Pratyush Kumar in 2023.",
+      "about_source": "https://www.sarvam.ai/about-us",
+      "ceo": null,
+      "recent_update": {"title": "Bulbul V4 Flash", "summary": "Introduced a text-to-speech model for expressive Indian-language speech and real-time voice applications.", "published_on": "2026-10-13", "source": "https://www.sarvam.ai/blogs/bulbul-v4-flash"},
+      "tags": ["Speech AI", "APIs", "Indian languages"],
+      "checked_on": "2026-10-23",
+      "research_note": "The official about page confirms both cofounders; it does not establish a current CEO title."
+    },
+    "smallest.ai": {
+      "name": "Smallest AI",
+      "sector": "Voice AI & developer infrastructure",
+      "about": "Builds voice agents and speech models, including text-to-speech, transcription and speech-to-speech tools for developers and enterprises.",
+      "about_source": "https://smallest.ai/",
+      "ceo": null,
+      "recent_update": {"title": "HubSpot + Atoms voice-agent guide", "summary": "Its October blog highlights building an AI voice agent for lead qualification with HubSpot and Atoms. This is a published guide; a product launch is not asserted.", "published_on": "2026-10-14", "source": "https://smallest.ai/blog"},
+      "tags": ["Voice agents", "Speech models", "Developer tools"],
+      "checked_on": "2026-10-23",
+      "research_note": "A current CEO title was not established from the reviewed official pages. The recent highlight is supported by the company's blog index."
+    },
+    "stripe.com": {
+      "name": "Stripe",
+      "sector": "Financial infrastructure",
+      "about": "Builds payment and financial tools that help businesses accept money, manage billing and run online commerce.",
+      "about_source": "https://stripe.com/newsroom/information",
+      "ceo": {"name": "Patrick Collison", "title": "Cofounder & CEO", "source": "https://stripe.com/newsroom/information"},
+      "recent_update": {"title": "Treasury for agents", "summary": "Introduced tools for startups to manage financial operations through AI agents, including balances, invoices and transfers.", "published_on": "2026-10-21", "source": "https://stripe.com/newsroom/news/treasury-for-agents"},
+      "tags": ["Payments", "APIs", "Financial services"],
+      "checked_on": "2026-10-22"
+    },
+    "supabase.com": {
+      "name": "Supabase",
+      "sector": "Developer infrastructure",
+      "about": "An open-source backend platform combining a Postgres database with authentication, storage, realtime features and edge functions.",
+      "about_source": "https://supabase.com/events/_aws-reinvent-2025",
+      "ceo": {"name": "Paul Copplestone", "title": "CEO & cofounder", "source": "https://supabase.com/blog/authors/paul_copplestone"},
+      "recent_update": {"title": "Unified .NET SDK v8", "summary": "Released a unified .NET SDK with coordinated package versions and a new dependency-injection extension.", "published_on": "2026-10-21", "source": "https://supabase.com/blog/introducing-the-unified-supabase-net-sdk"},
+      "tags": ["Postgres", "Open source", "Backend"],
+      "checked_on": "2026-10-22"
+    },
+    "hackerrank.com": {
+      "name": "HackerRank",
+      "sector": "Developer hiring & skills",
+      "about": "Provides coding assessments, technical interviews and skills-development tools for developers and hiring teams.",
+      "about_source": "https://www.hackerrank.com/blog/",
+      "ceo": {"name": "Vivek Ravisankar", "title": "Cofounder & CEO", "source": "https://www.hackerrank.com/about-us/our-team/"},
+      "recent_update": {"title": "AI-assisted hiring updates", "summary": "Its July release added assessment planning with AI, repository-based tasks and expanded capabilities for the Chakra AI interviewer.", "published_on": "2026-07-29", "source": "https://www.hackerrank.com/blog/how-hackerrank-is-rebuilding-developer-hiring-for-the-agentic-era/"},
+      "tags": ["Assessments", "Developer tools", "AI"],
+      "checked_on": "2026-10-22"
+    },
+    "peoplehum.com": {
+      "name": "peopleHum",
+      "sector": "HR software",
+      "about": "An HR platform with recruitment, employee engagement, performance management, analytics and learning tools.",
+      "about_source": "https://www.peoplehum.com/about-us",
+      "ceo": null,
+      "recent_update": null,
+      "tags": ["HR platform", "Analytics", "AI"],
+      "checked_on": "2026-10-22",
+      "research_note": "Current CEO and a dated recent product launch were not established from the reviewed official pages."
+    },
+    "iongroup.com": {
+      "name": "ION Group",
+      "sector": "Financial software",
+      "about": "Develops automation, analytics and software for financial markets, treasury management, commodities and banking.",
+      "about_source": "https://iongroup.com/",
+      "ceo": null,
+      "recent_update": null,
+      "tags": ["Automation", "Analytics", "Financial markets"],
+      "checked_on": "2026-10-22",
+      "research_note": "An older official release names Andrea Pignataro as founder and CEO; current leadership was not reconfirmed, so no current CEO is asserted."
+    },
+    "helixhumancapital.in": {
+      "name": "Helix Human Capital",
+      "sector": "HR consulting & recruitment",
+      "about": "Describes its services as recruitment, HR consulting, organisation design and outsourcing across multiple industries.",
+      "about_source": "https://www.helixhumancapital.in/",
+      "ceo": null,
+      "recent_update": {"title": "Launchpad by Helix", "summary": "Its website highlights a study-and-work-abroad guidance service. A launch date was not disclosed.", "published_on": null, "source": "https://www.helixhumancapital.in/"},
+      "tags": ["Recruitment", "HR services", "Consulting"],
+      "checked_on": "2026-10-22",
+      "research_note": "Service descriptions are the company's own statements; leadership and launch date remain unverified."
+    },
+    "agenticacademy.online": {
+      "name": "Agentic Academy Labs",
+      "sector": "AI services & developer training",
+      "about": "Describes work in custom AI, web and mobile development, cloud services and developer training from Sikar, India.",
+      "about_source": "https://www.agenticacademy.online/company/careers/devops-intern",
+      "ceo": null,
+      "recent_update": {"title": "Learning platform video section", "summary": "Its public changelog records a new video section for Agentic Academy Labs. Newer product work has not been verified.", "published_on": "2026-04-15", "source": "https://www.agenticacademy.online/company/changelog"},
+      "tags": ["AI services", "Cloud", "Training"],
+      "checked_on": "2026-10-22",
+      "research_note": "Information is self-published; employer operating evidence and current leadership still require review."
+    }
+  }
+}

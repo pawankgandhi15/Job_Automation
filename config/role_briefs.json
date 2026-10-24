@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "note": "Reviewed highlights of the stored employer job descriptions. A changed description invalidates its summary and falls back to JD excerpts. These are not candidate eligibility assessments.",
+  "roles": {
+    "https://jobs.ashbyhq.com/supabase/9073c0cd-2545-473a-b2ac-63e4615c69b5": {
+      "description_sha256": "9f1eb36fca6d0e553c6d9bd792d4621de8b8a44e12f50aa701c452cc04fc9ef2",
+      "summary": "Design, build and operate the distributed services behind Supabase's platform, improving scalability, reliability, observability and release processes.",
+      "requirements": ["Experience designing and operating distributed systems and multi-tenant APIs.", "Proficiency in TypeScript and/or Go; the employer ideally seeks 5+ years building production services, with other languages also considered.", "Cloud infrastructure, container orchestration, infrastructure as code and participation in on-call rotations."],
+      "skills": ["TypeScript / Go", "Distributed systems", "API design", "Cloud infrastructure", "Infrastructure as code", "Networking"],
+      "preferred": ["AWS and Pulumi are preferred choices; Postgres internals, replication, CDC, performance engineering and open-source contributions are nice to have."],
+      "stack": []
+    },
+    "https://stripe.com/jobs/search?gh_jid=8031833": {
+      "description_sha256": "2c51fe6ebde51fd1add40b2360445997c3b19afe472d4a417031dc7c41a1943f",
+      "summary": "Work on production software projects across Stripe's stack, owning problems end to end with support from a manager, teammates and code reviews.",
+      "requirements": ["Pursuing a bachelor's or master's in computer science, maths or a related field, with strong computer science fundamentals.", "Programming experience from projects or coursework, plus collaborative projects or previous internships that involved receiving feedback.", "Ability to learn unfamiliar systems, communicate clearly and critically review AI-assisted development outputs."],
+      "skills": ["Programming fundamentals", "Computer science", "Team collaboration", "Code review", "Learning new systems"],
+      "preferred": ["At least one year of university or equivalent work; specialization in a technical area and experience writing tested pull requests."],
+      "stack": ["Ruby", "Java", "JavaScript", "Go", "Scala"]
+    },
+    "https://stripe.com/jobs/search?gh_jid=7543868": {
+      "description_sha256": "038d9a5be45f47a8f78f251c16452e590c568e6dbf86d00abbfa70c7177151d7",
+      "summary": "Build reliable APIs, services, data integrations and internal tools supporting Stripe's commercial and financial operations.",
+      "requirements": ["8+ years designing, implementing and operating large-scale, high-performance APIs and services.", "Server-side API development in dynamic languages such as Ruby, working with document and relational data stores.", "Strong collaboration, communication and delivery skills across specifications, implementation, testing, deployment and measuring impact."],
+      "skills": ["API design", "Ruby or similar languages", "Document & relational databases", "Production debugging", "Communication"],
+      "preferred": ["Financial systems, cloud services, distributed systems or microservices; marketing technology or machine-learning experience."],
+      "stack": ["MongoDB", "MySQL", "Redshift", "Presto / Trino"]
+    },
+    "https://stripe.com/jobs/search?gh_jid=8185012": {
+      "description_sha256": "496ee49bffff9c1e8c33c017590cd743c162c5cdbf6746de009b2db442e5a146",
+      "summary": "Build low-latency backend services for Indian payments, connecting local payment networks to Stripe's global APIs and owning production reliability.",
+      "requirements": ["8+ years designing, implementing and operating large-scale, high-performance APIs and services.", "Server-side APIs in languages such as Ruby, Java or Go, working with document and relational databases.", "Strong collaboration and communication, user-focused engineering and the ability to balance delivery speed, complexity and scope."],
+      "skills": ["Ruby / Java / Go", "API design", "Relational & document databases", "Production systems", "Communication"],
+      "preferred": ["Financial or payments infrastructure, distributed systems, microservices and technical alignment across global teams."],
+      "stack": ["MySQL", "MongoDB"]
+    },
+    "https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259": {
+      "description_sha256": "acb74f4d3d078a35002ce5c3d76ac772f23ac3097795ad37a35abb411fd0f3ae",
+      "summary": "Develop Turso's open-source database and Postgres compatibility layer, while improving the reliability and scale of Turso Cloud APIs and data operations.",
+      "requirements": ["Experience building databases or other high-stakes, low-level systems, with a focus on correctness and testing.", "Experience deploying, operating and debugging production cloud systems, and improving their observability, reliability and performance.", "Comfort with Rust, embedded databases and LLM-assisted development; clear communication with remote teams and open-source communities."],
+      "skills": ["Rust", "Database engineering", "Systems programming", "Testing & correctness", "Cloud operations", "Observability"],
+      "preferred": [],
+      "stack": ["AWS", "Kubernetes"]
+    },
+    "https://www.peoplehum.com/peoplehum-jobs/devops-intern-ai-infrastructure": {
+      "description_sha256": "473975a0982a109bd5cbdbb5b4fc2a02bd47e06d10d0be49cc3e42fdba67dffd",
+      "summary": "The employer lists a Bengaluru DevOps internship in AI infrastructure. A substantive job description, detailed requirements and skills have not yet been verified.",
+      "requirements": [], "skills": [], "preferred": [], "stack": []
+    },
+    "https://job-boards.greenhouse.io/hackerrank/jobs/8229735": {
+      "description_sha256": "564a8960e6da2eabb77aa294e554a5f5f625a63145ace95d8c9442a66bddd745",
+      "summary": "A six-month software development internship based full time at HackerRank's Bengaluru office. A detailed skills list has not yet been verified.",
+      "requirements": ["Full-time availability for a six-month internship starting 5 January 2027.", "Full-time attendance at the Bengaluru office; exact daily hours still need confirmation."],
+      "skills": [], "preferred": [], "stack": []
+    },
+    "https://www.helixhumancapital.in/careers/software-engineering-intern": {
+      "description_sha256": "bb246c0d854d7547448424c380141e00cff720566a4c74fb3f4fd8bfb818a441",
+      "summary": "A paid, on-site software engineering internship open to students and early-career applicants, with projects or previous internship work requested as evidence.",
+      "requirements": ["Programming ability; Python can satisfy the language criterion.", "Projects or prior internship work, and full-time on-site availability."],
+      "skills": ["Programming", "Python (one option)", "Project experience"], "preferred": [], "stack": []
+    },
+    "https://www.agenticacademy.online/company/careers/devops-intern": {
+      "description_sha256": "f32f8e66ed9dadb278d072e5e9836cbac37247a690542f9b74f39e44db4cf48e",
+      "summary": "Support deployment pipelines and cloud operations through a paid, remote India DevOps internship. Pay amount, working hours and duration are not disclosed in the reviewed evidence.",
+      "requirements": ["Current IT students are accepted.", "Basic Linux, Git and scripting knowledge."],
+      "skills": ["Linux", "Git", "Scripting"], "preferred": [], "stack": []
+    },
+    "https://jobs.lever.co/ion/6f66cbb4-c882-4234-b84e-68baea56e1ea": {
+      "description_sha256": "27cd41ae3e50481ec2913326160e72707f8872d4825bd6436467b4688fb56a37",
+      "summary": "A full-time, on-site 2027 graduate software development programme in India. Accepted degree and branch rules, exact joining date and detailed skills still need verification.",
+      "requirements": ["Full-time, on-site availability for the graduate programme."],
+      "skills": [], "preferred": [], "stack": []
+    },
+    "https://jobs.ashbyhq.com/sarvam/0371342b-5cb8-487b-9310-4d0eb5b37f47": {
+      "description_sha256": "72b81043eb89078c3c229df1480f6f95db540bdb6c63924866531b03f7edc160",
+      "summary": "Build and operate real-time AI model APIs and speech pipelines, with ownership of performance, reliability and low latency from design through production.",
+      "requirements": [
+        "4–6 years building and operating production backend systems, including ownership of a service under real load.",
+        "Strong distributed systems, concurrency and networking fundamentals; experience with low-latency or high-throughput services.",
+        "Fluency in a backend language and willingness to work in Python and Go; experience with databases, caching, containers, CI/CD and monitoring."
+      ],
+      "skills": ["Python / Go", "Distributed systems", "Networking", "SQL & caching", "CI/CD", "Production monitoring"],
+      "preferred": ["Voice/audio streaming, model serving, FastAPI or production Kubernetes experience."],
+      "stack": []
+    },
+    "https://jobs.ashbyhq.com/smallest/f0879803-4119-4278-bcfc-4f0b25df943b": {
+      "description_sha256": "dcd196c9412b1c8d9fbd53b2e7f3fd84d066ab4ad978919541c8639a08a69bce",
+      "summary": "Own production services for real-time voice AI: build and test software, ship deployments, and improve reliability through monitoring and incident response.",
+      "requirements": [
+        "Strong engineering fundamentals across operating systems, memory, storage, networking, concurrency and data systems.",
+        "Own testing, deployment, on-call response and customer-facing reliability; reason about SLOs, latency and production failures.",
+        "Demonstrated ability is assessed directly rather than years of experience, degrees, past employers or certifications."
+      ],
+      "skills": ["Operating systems", "Networking", "Concurrency", "Distributed systems", "Testing", "Reliability & SLOs"],
+      "preferred": [],
+      "stack": ["Python", "TypeScript", "Go", "Kubernetes", "AWS"]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+__pycache__/
+.pytest_cache/
+.venv/
+data/
+reports/
+handoffs/
+*.pdf
+*.env
+.coverage
+coverage.xml
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+node_modules/
+build/
+dist/
+*.egg-info/
+
+
+# Candidate-specific local configuration
+config/profile.json
+config/settings.json
+Pawan_resume.pdf
+# Candidate-specific local files are never committed to the public repository.
+# Large/private application records already live under ignored data/ and reports/.
+web/company-overview/node_modules/
+# Separate hosted website checkout has its own Git history
+web/company-overview/.git
+# User-provided search prompt may contain private candidate data
+Advanced_Job_Search_Agent_Prompt.txt
+web/company-overview/.openai/

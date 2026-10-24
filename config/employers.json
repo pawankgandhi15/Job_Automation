@@ -1,0 +1,27 @@
+{
+  "note": "Candidate official careers pages only. Each ATS board must be discovered from an exact link on the employer domain before becoming an active source. Unsupported or unreadable pages remain pending.",
+  "employers": [
+    {"company":"IBM","official_website":"https://www.ibm.com","official_careers_url":"https://www.ibm.com/careers","tier":"GREAT"},
+    {"company":"Postman","official_website":"https://www.postman.com","official_careers_url":"https://www.postman.com/company/careers/","tier":"BETTER"},
+    {"company":"Razorpay","official_website":"https://razorpay.com","official_careers_url":"https://razorpay.com/careers/","tier":"BETTER"},
+    {"company":"PhonePe","official_website":"https://www.phonepe.com","official_careers_url":"https://www.phonepe.com/careers/","tier":"BETTER"},
+    {"company":"Whatfix","official_website":"https://whatfix.com","official_careers_url":"https://whatfix.com/careers/","tier":"GOOD"},
+    {"company":"CleverTap","official_website":"https://clevertap.com","official_careers_url":"https://clevertap.com/careers/","tier":"GOOD"},
+    {"company":"Grafana Labs","official_website":"https://grafana.com","official_careers_url":"https://grafana.com/careers/","tier":"BETTER"},
+    {"company":"Cloudflare","official_website":"https://www.cloudflare.com","official_careers_url":"https://www.cloudflare.com/careers/jobs/","tier":"GREAT"},
+    {"company":"Sentry","official_website":"https://sentry.io","official_careers_url":"https://sentry.io/careers/","tier":"BETTER"},
+    {"company":"ClickHouse","official_website":"https://clickhouse.com","official_careers_url":"https://clickhouse.com/company/careers/","tier":"BETTER"},
+    {"company":"Fivetran","official_website":"https://www.fivetran.com","official_careers_url":"https://www.fivetran.com/careers/","tier":"BETTER"},
+    {"company":"Airbyte","official_website":"https://airbyte.com","official_careers_url":"https://airbyte.com/company/careers","tier":"GOOD"},
+    {"company":"Headout","official_website":"https://www.headout.com","official_careers_url":"https://www.headout.com/careers/","tier":"GOOD"},
+    {"company":"Linear","official_website":"https://linear.app","official_careers_url":"https://linear.app/careers","tier":"BETTER"},
+    {"company":"PostHog","official_website":"https://posthog.com","official_careers_url":"https://posthog.com/careers","tier":"GOOD"},
+    {"company":"Astronomer","official_website":"https://www.astronomer.io","official_careers_url":"https://www.astronomer.io/careers/","tier":"GOOD"},
+    {"company":"Sarvam AI","official_website":"https://www.sarvam.ai","official_careers_url":"https://www.sarvam.ai/careers","tier":"GOOD"},
+    {"company":"Smallest AI","official_website":"https://smallest.ai","official_careers_url":"https://smallest.ai/careers","tier":"GOOD"},
+    {"company":"FalconX","official_website":"https://www.falconx.io","official_careers_url":"https://www.falconx.io/careers","tier":"BETTER"},
+    {"company":"Harness","official_website":"https://www.harness.io","official_careers_url":"https://www.harness.io/company/careers","tier":"BETTER"},
+    {"company":"MongoDB","official_website":"https://www.mongodb.com","official_careers_url":"https://www.mongodb.com/company/careers","tier":"BETTER"},
+    {"company":"Resend","official_website":"https://resend.com","official_careers_url":"https://resend.com/careers","tier":"GOOD"}
+  ]
+}

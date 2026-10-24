@@ -1,0 +1,6 @@
+Hello,
+
+I am following up on my application for $role at $company, submitted on {confirmed_application_date}. My background includes $strength. Could you share an update on the next steps?
+
+Thank you,
+$name
